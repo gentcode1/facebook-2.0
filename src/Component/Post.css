@@ -12,6 +12,7 @@
 }
 .post__image >img{
 width: 100%;
+object-fit: fill;
  
 }
 .post__avatar{
